@@ -1,0 +1,5 @@
+{
+  "name": "Neural Synaptic Integrator",
+  "description": "A real-time compartmental neuron simulation exploring synaptic integration, dendritic filtering, and temporal summation.",
+  "requestFramePermissions": []
+}
